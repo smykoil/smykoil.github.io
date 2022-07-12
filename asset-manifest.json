@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.01b01a39.css",
-    "main.js": "/static/js/main.b599bebc.js",
+    "main.js": "/static/js/main.dd04e566.js",
     "static/js/787.28525a86.chunk.js": "/static/js/787.28525a86.chunk.js",
     "static/media/Inter-ExtraBold.ttf": "/static/media/Inter-ExtraBold.ff90249a320fd94ec508.ttf",
     "static/media/Inter-Black.ttf": "/static/media/Inter-Black.cebeacf9cf3be04078de.ttf",
@@ -19,11 +19,11 @@
     "index.html": "/index.html",
     "static/media/vue-logo.svg": "/static/media/vue-logo.f2734e8f080de05923ff07cef3e19b53.svg",
     "main.01b01a39.css.map": "/static/css/main.01b01a39.css.map",
-    "main.b599bebc.js.map": "/static/js/main.b599bebc.js.map",
+    "main.dd04e566.js.map": "/static/js/main.dd04e566.js.map",
     "787.28525a86.chunk.js.map": "/static/js/787.28525a86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01b01a39.css",
-    "static/js/main.b599bebc.js"
+    "static/js/main.dd04e566.js"
   ]
 }
